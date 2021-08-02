@@ -1,0 +1,7 @@
+{
+	"common_dir" : "C:",
+	"acds_version" : "Version 14.0.0",
+	"platform" : "windows",
+	"os" : "Windows 7",
+	"qpf" : "ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/DE0_top.qpf"
+}

@@ -1,0 +1,118 @@
+Restore Archived Project report for DE0_top
+Mon Aug 02 18:58:54 2021
+Quartus II 64-Bit Version 14.0.0 Build 200 06/17/2014 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2014 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus II License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Mon Aug 02 18:58:53 2021 ;
+; Revision Name                   ; DE0_top                               ;
+; Top-level Entity Name           ; DE0_top                               ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/dor_b/Desktop/project/DE0_top_with_tpu_top.qar' into the 'C:/Users/dor_b/Desktop/project/DE0_top_with_tpu_top_restored/' directory
+Info: Generated report 'DE0_top.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/14.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4451 megabytes
+    Info: Processing ended: Mon Aug 02 18:58:54 2021
+    Info: Elapsed time: 00:00:08
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Files Restored                                                                                                ;
++---------------------------------------------------------------------------------------------------------------+
+; File Name                                                                                                     ;
++---------------------------------------------------------------------------------------------------------------+
+; qar_info.json                                                                                                 ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/DE0_top.qpf                           ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/DE0_top.qsf                           ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/DE0_top.v                             ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/DE0_top_assignment_defaults.qdf       ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/PLL.ppf                               ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/PLL.qip                               ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/PLL.v                                 ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/PLL_bb.v                              ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/button_debouncer.v                    ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/data.qip                              ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/data.v                                ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/data_bb.v                             ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/de0cv.qsys                            ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/dpu.v                                 ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/prog.qip                              ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/prog.v                                ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/prog_bb.v                             ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/ram.qip                               ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/ram.v                                 ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/ram_bb.v                              ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/row_mux.v                             ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/row_orginizer.v                       ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/seg7_lut.v                            ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/systolic_array_controller.v           ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/systolic_array_top.v                  ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/Quartus/DE0_Demo/tpu_top.v                             ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/riscv-gnu-toolchain/DE0_top.hex                        ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/core/core.v                                        ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/core/core_control_unit.v                           ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/core/core_csr_unit/core_csr_unit.v                 ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/core/core_csr_unit/core_csr_unit_timer.v           ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/core/core_execution_unit/core_execution_unit.v     ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/core/core_execution_unit/core_execution_unit_alu.v ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/core/core_execution_unit/core_execution_unit_br.v  ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/core/core_execution_unit/core_execution_unit_lis.v ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/core/core_program_counter.v                        ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/core/core_regfile.v                                ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/mem/mem_data.v                                     ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/mem/mem_prog.v                                     ;
+; ComputerArchitecturesFinalProject/RV32i-Verilog-master/src/top.v                                              ;
+; computerarchitecturesfinalproject/rv32i-verilog-master/data/datamem_h.mem                                     ;
+; computerarchitecturesfinalproject/rv32i-verilog-master/src/defines.vh                                         ;
+; sysgcc/risc-v/bin/matrixmultest.hex                                                                           ;
++---------------------------------------------------------------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
